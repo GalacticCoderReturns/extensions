@@ -31,7 +31,6 @@
             opcode: 'randomdogfact',
             blockType: Scratch.BlockType.REPORTER,
             text: 'random dog fact',
-            disableMonitor: true,
           }
         ],
       };
