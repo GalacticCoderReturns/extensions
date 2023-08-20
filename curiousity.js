@@ -36,7 +36,6 @@
         ],
       };
     }
-  
     randomdogfact(args) {
         return dogFacts[Math.floor(Math.random() * dogFacts.length)]
       }
